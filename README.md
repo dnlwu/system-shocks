@@ -4,7 +4,10 @@ This project models interconnected systems, examines how shocks impact them, and
 
 Broadly, this model can be applied to any system which can be defined by a series of inputs from one component of the system and outputs of another component of the system. In the case of this economic shock example, different industries require different inputs to produce outputs. These industries are connected in a "network-like" structure.
 
+The most important components to mitigate risks are... petroleum and coal products, chemical products, food/beverages/tobacco products, utilities, oil and gas, farms, Federal Resrve activities, metals, securities/commodities/investments, housing.
 ![Top 10 Risky Components To Mitigate](https://github.com/dnlwu/system-shocks/blob/main/results/topten_cpi.png?raw=True)
+
+The below figure shows all risk levels.
 ![All Components Risk Levels](https://github.com/dnlwu/system-shocks/blob/main/results/full_cpi.png?raw=True)
 
 To learn more, read the following working paper, which this implementation is based off. 
