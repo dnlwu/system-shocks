@@ -1,6 +1,8 @@
 # system-shocks
 
-## What happens when a shock happens in a complex system? How does it impact other components/entities/units of the whole? 
+## Goals
+## What happens when a shock happens in a complex system? 
+## How does the shock spread to other components/entities/units of the whole? 
 
 This project models interconnected systems, examines how shocks impact them, and identifies key risk components to target for mitigation, with a direct application to economic shocks. 
 
