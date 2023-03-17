@@ -3,6 +3,7 @@
 Goals:
 1. What happens when a shock happens in a complex system? 
 2. How does the shock spread to other components/entities/units of the whole? 
+3. Which parts of the system are most risky to shocks?
 
 This project models interconnected systems, examines how shocks impact them, and identifies key risk components to target for mitigation, with a direct application to economic shocks. 
 
