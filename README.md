@@ -1,5 +1,7 @@
 # system-shocks
 
+## What happens when a shock happens in a complex system? How does it impact other components/entities/units of the whole? 
+
 This project models interconnected systems, examines how shocks impact them, and identifies key risk components to target for mitigation, with a direct application to economic shocks. 
 
 Broadly, this model can be applied to any system which can be defined by a series of inputs from one component of the system and outputs of another component of the system. In the case of this economic shock example, different industries require different inputs to produce outputs. These industries are connected in a "network-like" structure.
